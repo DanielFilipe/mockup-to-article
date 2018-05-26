@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+* I have learned how <div> works and how to properly organize html tags. I'm also aware of good practices and got a solid understanding of the html tree structure.
+* It was easy to understand how html structures works and how the web works.
+* I had a hard time memorizing the head properties and how the <figure> works. I also had a hard time researching how to do the superscript citation in the end of the article, since I had no clue about the term "superscript".
+* I researched on mozilla and other websites to solve my issues.
